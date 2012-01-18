@@ -1,0 +1,35 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "name": "Rabit movie",
+            "description": "Quisque quis mauris id velit adipiscing volutpat. Praesent venenatis purus ut lacus sollicitudin euismod. Quisque a purus arcu, a eleifend mi. In hac habitasse platea dictumst. Phasellus a porta eros. Maecenas volutpat nulla quis magna tempor ornare. Quisque ut tellus ut nibh commodo hendrerit. Proin id dui est. Donec auctor.",
+            "url": "http://www.youtube.com/watch?v=3Sk7cOqB9Dk",
+            "source": "Youtube",
+            "file_type": "Link",
+            "category": "Fun",
+            "sequence": 0,
+            "uploaded_by": "Tyrone",
+            "comments": [
+                {
+                    "author": "Hanaa",
+                    "comment": "I really enjoyed this video. Do you have any more?",
+                    "date": "03/12/2011"
+                },
+                {
+                    "author": "Tyrone",
+                    "comment": "I thought you'd like it. I will hunt around and see what i can find.",
+                    "date": "05/12/2011"
+                }
+            ],
+            "watched_by": [
+                {
+                    "name": "Hanaa"
+                },
+                {
+                    "name": "Tyrone"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+Development notes - Jan 2011
+----------------------------
+
+	1.	Create a video object that can be used to store video data.
+
+	2. 	Load a json file and read it's contents.
+
+	3.	Bind the contents of the json file to the video class / object
