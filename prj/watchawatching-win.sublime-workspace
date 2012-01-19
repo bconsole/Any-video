@@ -22,6 +22,22 @@
 				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "/C/Non Work/gitHub/Any-video/lib/video/video.js",
+			"settings":
+			{
+				"buffer_size": 2556,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Non Work/gitHub/Any-video/index.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -80,6 +96,7 @@
 	},
 	"file_history":
 	[
+		"/C/Non Work/gitHub/Any-video/lib/config.js",
 		"/C/Non Work/gitHub/Sublime-Text-2/README",
 		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/test/hello.html.erb",
 		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/test/hello.rb",
@@ -150,7 +167,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -171,6 +188,59 @@
 						"settings":
 						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Non Work/gitHub/Any-video/lib/video/video.js",
+					"settings":
+					{
+						"buffer_size": 2556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Non Work/gitHub/Any-video/index.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
