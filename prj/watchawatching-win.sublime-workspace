@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jq",
+				"jqplugin	jQuery plugin template"
+			],
+			[
+				"j",
+				"jqcode	jQuery add a link to the latest version of jQuery"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"Snippet: jq",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"Snippet: ",
+				"Snippet: This snippet add a link to the latest version of jQuery"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"FOR",
+				"Format: Javascript"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Non Work/gitHub/Sublime-Text-2/README",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/test/hello.html.erb",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/test/hello.rb",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/js/plugins/snippet.js",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/jquery-plugin.sublime-snippet",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/javascript-anonymous-function.sublime-snippet",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/jquery-global-function.sublime-snippet",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/jquery-code.sublime-snippet",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/code-jquery.sublime-snippet",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/global-function-jquery.sublime-snippet",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/test/notes.txt",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/mastHead.html",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/controls/mastHead.html",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/js/plugins/myClass.js",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/js/trev.js",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/default.html",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/trev.js",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/jq.js",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"//dcofficehamserv.datadialltd.local/clients/xc426/urls/seo-stats-demo.datadial.net/dev_html/test/tj/trev.ja",
+		"//dcofficehamserv.datadialltd.local/clients/JU647/urls/dev2.turtlemat.co.uk/dev_html/js/datadial/common.js",
+		"//dcofficehamserv.datadialltd.local/clients/JU647/urls/dev2.turtlemat.co.uk/dev_html/js/sheen/sheen.js",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Tyrone/trev.js",
+		"/C/Users/tyrone/Any-video/README",
+		"//dcofficehamserv.datadialltd.local/clients/JU647/urls/dev2.turtlemat.co.uk/dev_html/pages/clean.aspx",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"//datadialltd.local/ddhamroam$/userdir/tyrone/Application Data/Sublime Text 2/Packages/User/Build.sublime-settings",
+		"//dcofficehamserv.datadialltd.local/clients/JU647/urls/dev2.turtlemat.co.uk/dev_html/css/base.css",
+		"//dcofficehamserv.datadialltd.local/clients/JU647/urls/dev2.turtlemat.co.uk/dev_html/authorisation.config"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"VATApplies"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
