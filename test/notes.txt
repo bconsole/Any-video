@@ -6,3 +6,19 @@ Development notes - Jan 2011
 	2. 	Load a json file and read it's contents.
 
 	3.	Bind the contents of the json file to the video class / object
+
+
+--------------------------------------------------------------------
+
+
+Daily motion video link formats
+-------------------------------
+
+	http://www.dailymotion.com/en/hub/MotionmakerMusic#videoId=xm2qbk
+
+	http://www.dailymotion.com/video/xm2qbk_world-war_shortfilms
+
+	http://www.dailymotion.com/embed/video/xm2qbk
+
+	<iframe frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/xm2qbk"></iframe><br /><a href="http://www.dailymotion.com/video/xm2qbk_world-war_shortfilms" target="_blank">World War</a> <i>by <a href="http://www.dailymotion.com/ithacaaudio" target="_blank">ithacaaudio</a></i>
+
