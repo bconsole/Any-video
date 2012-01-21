@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conseo",
+				"console.log();"
+			],
+			[
+				"populate",
+				"populateObject"
+			],
+			[
+				"open",
+				"fs.open(path, flags, mode, callback);"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"ba",
+				"background: background-color: hex"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"mar",
+				"margin: margin: all"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"rel",
+				"rel"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"ae",
+				"makehugrid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/tyrone/Sites/Any-video/lib/video/video.json",
+			"settings":
+			{
+				"buffer_size": 3456,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packa ",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"save",
+				"Project: Save As"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/tyrone/Sites/WatchaWatching/lib/config.js",
+		"/Users/tyrone/Sites/WatchaWatching/public/index.html",
+		"/Users/tyrone/Sites/WatchaWatching/public/html_templates/index.html",
+		"/Users/tyrone/Sites/WatchaWatching/node_modules/express/History.md",
+		"/Users/tyrone/Sites/WatchaWatching/node_modules/express/lib/https.js",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/tyrone/Sites/WatchaWatching/node_modules/express/package.json",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tyrone/Sites/WatchaWatching/node_modules/express/lib/view.js",
+		"/Users/tyrone/Sites/WatchaWatching/server.js",
+		"/Users/tyrone/Sites/WatchaWatching/index.js",
+		"/Users/tyrone/Sites/WatchaWatching/lib/video/video.json",
+		"/Users/tyrone/Sites/WatchaWatching/lib/video.js",
+		"/Users/tyrone/Sites/WatchaWatching/public/css/normalize.css",
+		"/Users/tyrone/Sites/WatchaWatching/design/HeadsUpGrid_download/example.html",
+		"/Users/tyrone/Sites/WatchaWatching/design/HeadsUpGrid_download/headsupgrid/responsive.js",
+		"/Users/tyrone/Sites/WatchaWatching/design/HeadsUpGrid_download/example_responsive.html",
+		"/Users/tyrone/Sites/WatchaWatching/design/HeadsUpGrid_download/headsupgrid/fixed.js",
+		"/Users/tyrone/Sites/WatchaWatching/prj/watchawatching.sublime-project",
+		"/Users/tyrone/Library/Application Support/Sublime Text 2/Packages/User/css"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"videos",
+			"(){",
+			"loadCollection",
+			"load",
+			"the",
+			"data",
+			"colo",
+			"ver"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/tyrone/Sites/Any-video/lib/video/video.json",
+					"settings":
+					{
+						"buffer_size": 3456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.516499705362,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"packages",
+				"node_modules/express/package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
