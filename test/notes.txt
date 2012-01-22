@@ -47,3 +47,14 @@ Vimeo video link formats
 	http://vimeo.com/31100268
 
 	<iframe src="http://player.vimeo.com/video/31100268?byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+
+Blip TV link formats
+-------------------------------
+
+http://blip.tv/play?posts_id=5892795
+
+http://blip.tv/nostalgiacritic/nostalgia-critic-star-trek-3-the-search-for-spock-5892795
+
+<iframe src="http://blip.tv/play/gbk7gufWHwI.html?p=1" width="550" height="444" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash" src="http://a.blip.tv/api.swf#gbk7gufWHwI" style="display:none"></embed>

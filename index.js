@@ -60,6 +60,14 @@ app.get('/vimeo', function(req, res){
 	});
 });
 
+app.get('/bliptv', function(req, res){
+	// in order to get this to work i will have to with the actual iframe code as the page url 
+	// does not match the iframe src
+	res.header('Content-Type', 'text/html');	
+	res.write('<iframe src="http://blip.tv/play/gbk7gufWHwI.html?p=1" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>');
+	res.end();					
+});
+
 
 // app.get('/pump', function(req, res){
 // 	res.header('Content-Type', 'text/html');	
