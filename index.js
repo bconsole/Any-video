@@ -5,24 +5,60 @@ var videoEmbedHtml = require('./lib/video/videoEmbedHtml');
 // var util 	= require('util');
 // var fs 		= require('fs');
 
+
 app.get('/', function(req, res){
 	res.header('Content-Type', 'text/html');	
+	var html =  '<h1>Watcha Watching</h1>'
+			html += '<h2>URLs</h2>'
+			html += '<p>/youtube</p>'
+			html += '<p>/vimeo</p>'
+			html += '<p>/dailymotion</p>'
 
+	res.end(html);					
+});
+
+app.get('/youtube', function(req, res){
 	video.load(1, function(err, vid) {
 			videoEmbedHtml.getEmbedHtml(vid.url, vid.source.toLowerCase(), function(err, embedHtml) {
 				if (err) {
 					throw err;
 				}
-					res.write(embedHtml);
-					res.end();					
+
+				res.header('Content-Type', 'text/html');	
+				res.write(embedHtml);
+				res.end();					
 			});
 	});
-	
 });
 
-function getVideoId(url, callback){
+app.get('/dailymotion', function(req, res){
+	video.load(3, function(err, vid) {
+			videoEmbedHtml.getEmbedHtml(vid.url, vid.source.toLowerCase(), function(err, embedHtml) {
+				if (err) {
+					throw err;
+				}
 
-}
+				res.header('Content-Type', 'text/html');	
+				res.write(embedHtml);
+				res.end();					
+			});
+	});
+});
+
+app.get('/vimeo', function(req, res){
+	video.load(2, function(err, vid) {
+			videoEmbedHtml.getEmbedHtml(vid.url, vid.source.toLowerCase(), function(err, embedHtml) {
+				if (err) {
+					throw err;
+				}
+
+				res.header('Content-Type', 'text/html');	
+				res.write(embedHtml);
+				res.end();					
+			});
+	});
+});
+
 
 // app.get('/pump', function(req, res){
 // 	res.header('Content-Type', 'text/html');	

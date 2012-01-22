@@ -12,6 +12,21 @@ Development notes - Jan 2011
 
 --------------------------------------------------------------------
 
+Youtube video link formats
+-------------------------------
+
+	http://www.youtube.com/watch?v=poAcWOIE1CU&feature=related
+
+	http://www.youtube.com/watch?v=poAcWOIE1CU
+
+	HD: http://www.youtube.com/watch?v=poAcWOIE1CU&hd=1
+
+	http://youtu.be/poAcWOIE1CU
+
+	Start at: http://youtu.be/poAcWOIE1CU?t=3m28s
+
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/poAcWOIE1CU" frameborder="0" allowfullscreen></iframe>
+
 
 Daily motion video link formats
 -------------------------------
@@ -22,5 +37,13 @@ Daily motion video link formats
 
 	http://www.dailymotion.com/embed/video/xm2qbk
 
-	<iframe frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/xm2qbk"></iframe><br /><a href="http://www.dailymotion.com/video/xm2qbk_world-war_shortfilms" target="_blank">World War</a> <i>by <a href="http://www.dailymotion.com/ithacaaudio" target="_blank">ithacaaudio</a></i>
+	<iframe frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/xm2qbk"></iframe>
 
+	http://www.dailymotion.com/video/xmh52m_supakitch-x-koralie-x-leonard-de-leonard-euphorie_music
+
+Vimeo video link formats
+-------------------------------
+
+	http://vimeo.com/31100268
+
+	<iframe src="http://player.vimeo.com/video/31100268?byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
