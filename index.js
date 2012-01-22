@@ -1,18 +1,28 @@
 var express = require('express');
 var app 	= express.createServer();
 var video = require('./lib/video/video');
+var videoEmbedHtml = require('./lib/video/videoEmbedHtml');
 // var util 	= require('util');
 // var fs 		= require('fs');
 
 app.get('/', function(req, res){
 	res.header('Content-Type', 'text/html');	
-	res.write('');
 
 	video.load(1, function(err, vid) {
-		res.write(vid.url);
-		res.end();
+			videoEmbedHtml.getEmbedHtml(vid.url, vid.source.toLowerCase(), function(err, embedHtml) {
+				if (err) {
+					throw err;
+				}
+					res.write(embedHtml);
+					res.end();					
+			});
 	});
+	
 });
+
+function getVideoId(url, callback){
+
+}
 
 // app.get('/pump', function(req, res){
 // 	res.header('Content-Type', 'text/html');	
