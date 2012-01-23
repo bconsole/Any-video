@@ -58,3 +58,21 @@ http://blip.tv/play?posts_id=5892795
 http://blip.tv/nostalgiacritic/nostalgia-critic-star-trek-3-the-search-for-spock-5892795
 
 <iframe src="http://blip.tv/play/gbk7gufWHwI.html?p=1" width="550" height="444" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash" src="http://a.blip.tv/api.swf#gbk7gufWHwI" style="display:none"></embed>
+
+
+TED link formats
+-------------------------------
+
+	Think about integrating TED by scraping the page and getting the object tag.
+	This would then need to be decoded, before searching for the link to the mp4 tag.
+	Most of the time the mp4 can be downloaded.
+
+	Also note that some of the lectures are youtube and vimeo links
+
+Personal videos
+---------------------------------
+
+	Start linking to videos that are stored locally.
+
+	Use the video tag in HTML5.
+
