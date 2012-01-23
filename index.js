@@ -61,8 +61,20 @@ app.get('/vimeo', function(req, res){
 });
 
 app.get('/bliptv', function(req, res){
-	// in order to get this to work i will have to with the actual iframe code as the page url 
-	// does not match the iframe src
+	// video.load(4, function(err, vid) {
+	// 		videoEmbedHtml.getEmbedHtml(vid.url, vid.source.toLowerCase(), function(err, embedHtml) {
+	// 			if (err) {
+	// 				throw err;
+	// 			}
+
+	// 			res.header('Content-Type', 'text/html');	
+	// 			res.write(embedHtml);
+	// 			res.end();					
+	// 		});
+	// });
+
+	//use regex to match a number in string that has a proceeding "-"
+
 	res.header('Content-Type', 'text/html');	
 	res.write('<iframe src="http://blip.tv/play/gbk7gufWHwI.html?p=1" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>');
 	res.end();					

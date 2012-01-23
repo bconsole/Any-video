@@ -16,14 +16,6 @@
 	"buffers":
 	[
 		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "/C/Non Work/gitHub/Any-video/lib/video/video.js",
 			"settings":
 			{
@@ -35,7 +27,23 @@
 			"file": "/C/Non Work/gitHub/Any-video/index.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 716,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Non Work/gitHub/Any-video/lib/video/video.json",
+			"settings":
+			{
+				"buffer_size": 3456,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Non Work/gitHub/Any-video/test/notes.txt",
+			"settings":
+			{
+				"buffer_size": 865,
 				"line_ending": "Windows"
 			}
 		}
@@ -43,9 +51,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 242.0,
+		"height": 380.0,
 		"selected_items":
 		[
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
 			[
 				"Snippet: jq",
 				"Snippet: jQuery ready function"
@@ -73,10 +85,6 @@
 			[
 				"package",
 				"Package Control: List Packages"
-			],
-			[
-				"packag",
-				"Package Control: Install Package"
 			]
 		],
 		"width": 528.0
@@ -167,36 +175,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "/C/Non Work/gitHub/Any-video/lib/video/video.js",
 					"settings":
 					{
@@ -207,8 +190,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								2555,
+								2555
 							]
 						],
 						"settings":
@@ -217,30 +200,84 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 570.0,
+						"translation.y": 1596.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "/C/Non Work/gitHub/Any-video/index.js",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 716,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								449,
+								449
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Non Work/gitHub/Any-video/lib/video/video.json",
+					"settings":
+					{
+						"buffer_size": 3456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2960,
+								2960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 852.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Non Work/gitHub/Any-video/test/notes.txt",
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
