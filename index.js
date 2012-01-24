@@ -2,20 +2,40 @@ var express = require('express');
 var app 	= express.createServer();
 var video = require('./lib/video/video');
 var videoEmbedHtml = require('./lib/video/videoEmbedHtml');
-
-// var util 	= require('util');
-// var fs 		= require('fs');
-
+var rootDir = __dirname;
+var util 	= require('util');
+var fs 		= require('fs');
 
 app.get('/', function(req, res){
 	res.header('Content-Type', 'text/html');	
-	var html =  '<h1>Watcha Watching</h1>'
-			html += '<h2>URLs</h2>'
-			html += '<p>/youtube</p>'
-			html += '<p>/vimeo</p>'
-			html += '<p>/dailymotion</p>'
+	res.write('<head>');
+	res.write('<title>Watcha Watching</title>');
+	res.write('<link href="/css" type="text/css" rel="stylesheet" />');
+	res.write('</head>');
+	res.write('<h1>Watcha Watching</h1>');
+	res.write('<h2>' + rootDir + '</h2>');
 
-	res.end(html);					
+	video.loadCollection(function(err, videos) {
+		if (err) {
+			throw err;
+		}
+
+		if (videos.length) {
+			for (var i = 0; v = videos[i], i < videos.length; i++) {
+				res.write('<p><a href="/' + v.source + '">' + v.name + '</a></p>');
+			};
+		} else {
+			throw new Error('no videos were returned');
+		}
+		res.end();
+	});				
+});
+
+app.get('/css', function(req, res){
+	// this is only a test. Dont be alarmed!!!
+	res.header('Content-Type', 'text/css');
+	var rs = fs.createReadStream(__dirname + '/public/css/normalize.css');
+	util.pump(rs, res);	
 });
 
 app.get('/youtube', function(req, res){
