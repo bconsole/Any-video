@@ -49,6 +49,7 @@ function loadHead(callback) {
 	h += '<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>';
 	h += '<link href="/css-norm" type="text/css" rel="stylesheet" />';
 	h += '<link href="/css-base" type="text/css" rel="stylesheet" />';
+	h += '<link href="/css-video" type="text/css" rel="stylesheet" />';
 	h += '</head>';
 
 	callback(null, h);
@@ -98,6 +99,12 @@ app.get('/css-norm', function(req, res){
 app.get('/css-base', function(req, res){
 	res.header('Content-Type', 'text/css');
 	var rs = fs.createReadStream(__dirname + '/public/css/base.css');
+	util.pump(rs, res);	
+});
+
+app.get('/css-video', function(req, res){
+	res.header('Content-Type', 'text/css');
+	var rs = fs.createReadStream(__dirname + '/public/css/video.css');
 	util.pump(rs, res);	
 });
 
